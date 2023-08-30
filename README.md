@@ -28,4 +28,9 @@ python3 -m sitod.run_experiment \
 --config configs/run-open-intent-induction-baselines.jsonnet
 ```
 
-### TBD
+### P.S.
+```
+for inference : saved models are necessary. If you need, ask me.
+for training PGT : MDB pkl file is necessary. if you need, ask me.
+hyukhunkoh-ai@snu.ac.kr
+```
